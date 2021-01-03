@@ -2,5 +2,6 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="ContextHelp" />
   <action id="HippieCompletion" />
 </keymap>
