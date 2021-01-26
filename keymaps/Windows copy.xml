@@ -2,10 +2,6 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -16,6 +12,9 @@
   <action id="ContextHelp" />
   <action id="CopyStoryContent" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -29,6 +28,6 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="编辑Cut">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
 </keymap>
