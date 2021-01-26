@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="D:\JavaFiles\IdeaProjects" />
     <option name="showTipsOnStartup" value="false" />
     <option name="autoSyncFiles" value="false" />
