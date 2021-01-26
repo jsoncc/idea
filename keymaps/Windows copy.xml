@@ -1,7 +1,28 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="ContextHelp" />
+  <action id="CopyStoryContent" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
+  <action id="SendEOF" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="编辑Cut">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
 </keymap>
