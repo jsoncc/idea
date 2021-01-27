@@ -1,7 +1,4 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
@@ -10,13 +7,17 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="ContextHelp" />
+  <action id="CopyPaths" />
   <action id="CopyStoryContent" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
@@ -29,6 +30,9 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="编辑Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="编辑Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
