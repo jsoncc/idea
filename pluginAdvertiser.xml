@@ -2101,6 +2101,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+                    <value>
+                      <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="插件" pluginName="Plugin DevKit" pluginId="DevKit" />
@@ -2289,6 +2294,11 @@
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
+                    </value>
+                  </entry>
+                  <entry key="TomeeConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="TomEE Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
