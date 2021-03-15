@@ -21,6 +21,7 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
+  <action id="OptimizeImports" />
   <action id="SendEOF" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
@@ -28,6 +29,7 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="UsageGrouping.FlattenModules" />
   <action id="编辑Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
