@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="368" />
+    <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="持久&#10;" />
+      <item value="persist" />
+      <item value="per" />
+      <item value="Test Controller" />
+      <item value="Controller" />
       <item value="driver" />
       <item value="statement" />
       <item value="result Set" />
@@ -29,6 +38,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614506255240" />
+    <option name="lastTrimTime" value="1619405694637" />
   </component>
 </application>
