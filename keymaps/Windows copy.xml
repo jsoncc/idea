@@ -6,6 +6,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -26,6 +29,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
   <action id="OptimizeImports" />
