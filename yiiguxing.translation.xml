@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="街道&#10;&#10;" />
+      <item value="县&#10;" />
+      <item value="xian" />
       <item value="target&#10;" />
       <item value="tar" />
       <item value="持久&#10;" />
