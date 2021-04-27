@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="persist&#10;" />
+      <item value="per" />
       <item value="reverse" />
       <item value="common-util" />
       <item value="commonutil" />
@@ -23,7 +25,6 @@
       <item value="tar" />
       <item value="持久&#10;" />
       <item value="persist" />
-      <item value="per" />
       <item value="Test Controller" />
       <item value="Controller" />
       <item value="driver" />
