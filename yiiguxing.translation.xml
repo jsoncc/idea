@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="DECIMAL" />
+      <item value="NUMERIC" />
       <item value="persist&#10;" />
       <item value="per" />
       <item value="reverse" />
