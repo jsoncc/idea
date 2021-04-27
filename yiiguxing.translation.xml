@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="291" />
-    <option name="newTranslationDialogY" value="352" />
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="561" />
+    <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="reverse" />
+      <item value="common-util" />
+      <item value="commonutil" />
+      <item value=" util" />
+      <item value="util" />
+      <item value="entity&#10;" />
+      <item value="component" />
       <item value="Cannot resolve symbol 'info'" />
       <item value="Subject" />
       <item value="map&#10;" />
