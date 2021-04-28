@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="rock" />
+      <item value="roc" />
+      <item value="tabbar&#10;" />
+      <item value="tab" />
       <item value="Resolver" />
       <item value="Internal" />
       <item value="逆转" />
@@ -51,9 +55,6 @@
       <item value="余" />
       <item value="ticket" />
       <item value="Runnable" />
-      <item value="Stream" />
-      <item value="输出" />
-      <item value="hello" />
     </histories>
     <option name="languageScores">
       <map>
