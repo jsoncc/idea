@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="586" />
-    <option name="newTranslationDialogX" value="561" />
-    <option name="newTranslationDialogY" value="226" />
+    <option name="newTranslationDialogHeight" value="183" />
+    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogX" value="11" />
+    <option name="newTranslationDialogY" value="8" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constant" />
+      <item value="constat" />
+      <item value="cons" />
       <item value="rock" />
       <item value="roc" />
       <item value="tabbar&#10;" />
@@ -52,9 +57,6 @@
       <item value="synchronized" />
       <item value="余额" />
       <item value="余 " />
-      <item value="余" />
-      <item value="ticket" />
-      <item value="Runnable" />
     </histories>
     <option name="languageScores">
       <map>
