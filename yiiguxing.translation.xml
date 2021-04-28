@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="Resolver" />
+      <item value="Internal" />
+      <item value="逆转" />
+      <item value="逆向" />
+      <item value="ni" />
+      <item value="reverse&#10;" />
       <item value="DECIMAL" />
       <item value="NUMERIC" />
       <item value="persist&#10;" />
