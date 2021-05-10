@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="component" />
+      <item value="compone" />
+      <item value="compo" />
+      <item value="com" />
+      <item value="Admin Example" />
       <item value="session" />
       <item value="resolve" />
       <item value="handler" />
@@ -36,7 +41,6 @@
       <item value=" util" />
       <item value="util" />
       <item value="entity&#10;" />
-      <item value="component" />
       <item value="Cannot resolve symbol 'info'" />
       <item value="Subject" />
       <item value="map&#10;" />
@@ -52,10 +56,6 @@
       <item value="Controller" />
       <item value="driver" />
       <item value="statement" />
-      <item value="result Set" />
-      <item value="Cannot resolve method 'prepareStatement" />
-      <item value="invoke" />
-      <item value="Consumer" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619405694637" />
+    <option name="lastTrimTime" value="1620625645010" />
   </component>
 </application>
