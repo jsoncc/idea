@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="183" />
-    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogWidth" value="479" />
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="util" />
+      <item value="signature" />
+      <item value="sig" />
       <item value="final" />
       <item value="finak" />
       <item value="f" />
@@ -50,17 +53,14 @@
       <item value="common-util" />
       <item value="commonutil" />
       <item value=" util" />
-      <item value="util" />
       <item value="entity&#10;" />
       <item value="Cannot resolve symbol 'info'" />
       <item value="Subject" />
-      <item value="map&#10;" />
-      <item value="map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
