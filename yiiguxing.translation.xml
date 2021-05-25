@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="String" />
       <item value="util" />
       <item value="signature" />
       <item value="sig" />
@@ -55,16 +56,15 @@
       <item value=" util" />
       <item value="entity&#10;" />
       <item value="Cannot resolve symbol 'info'" />
-      <item value="Subject" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620625645010" />
+    <option name="lastTrimTime" value="1621909239125" />
   </component>
 </application>
