@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="No qualifying bean of type 'com.jsoncc.crowd.service.api.AdminService' available: expected single matching bean but found 2:" />
+      <item value="qualifying" />
       <item value="Could not autowire. No beans of 'AdminService' type found. " />
       <item value="required" />
       <item value="deploy Directory" />
@@ -54,13 +56,11 @@
       <item value="DECIMAL" />
       <item value="NUMERIC" />
       <item value="persist&#10;" />
-      <item value="per" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
