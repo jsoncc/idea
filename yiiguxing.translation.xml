@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="183" />
-    <option name="newTranslationDialogWidth" value="479" />
-    <option name="newTranslationDialogX" value="1025" />
-    <option name="newTranslationDialogY" value="339" />
+    <option name="newTranslationDialogWidth" value="477" />
+    <option name="newTranslationDialogX" value="459" />
+    <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="Could not autowire. No beans of 'AdminService' type found. " />
+      <item value="required" />
       <item value="deploy Directory" />
       <item value="Error during artifact deployment." />
       <item value="deployment" />
@@ -54,13 +56,11 @@
       <item value="persist&#10;" />
       <item value="per" />
       <item value="reverse" />
-      <item value="common-util" />
-      <item value="commonutil" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
