@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Error during artifact deployment." />
       <item value="deployment" />
       <item value="String" />
       <item value="util" />
@@ -55,12 +56,11 @@
       <item value="common-util" />
       <item value="commonutil" />
       <item value=" util" />
-      <item value="entity&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
