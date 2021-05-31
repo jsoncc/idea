@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="param" />
       <item value="entries" />
       <item value="implements" />
       <item value="No qualifying bean of type 'com.jsoncc.crowd.service.api.AdminService' available: expected single matching bean but found 2:" />
@@ -55,12 +56,12 @@
       <item value="逆向" />
       <item value="ni" />
       <item value="reverse&#10;" />
-      <item value="DECIMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
+        <entry key="CHINESE" value="29" />
         <entry key="ENGLISH" value="29" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
