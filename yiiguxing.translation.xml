@@ -2,10 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="183" />
-    <option name="newTranslationDialogWidth" value="475" />
+    <option name="newTranslationDialogWidth" value="473" />
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="hello&#10;&#10;&#10;&#10;" />
+      <item value="hello&#10;" />
+      <item value="determinedfgdg&#10;" />
+      <item value="determine&#10;" />
+      <item value="deter" />
+      <item value="dee" />
+      <item value="de" />
+      <item value="determine" />
       <item value="thymeleaf" />
       <item value="thymela" />
       <item value="thy" />
@@ -48,18 +56,10 @@
       <item value="resolve" />
       <item value="handler" />
       <item value="handle" />
-      <item value="handler&#10;" />
-      <item value="algorith" />
-      <item value="algorithm" />
-      <item value="constant" />
-      <item value="constat" />
-      <item value="cons" />
-      <item value="rock" />
-      <item value="roc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="31" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
