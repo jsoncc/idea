@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="HTTP method names must be tokens" />
       <item value="Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.StackOverflowError at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessorAutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660) ~[spring-beans-5.3.8.jar:5.3.8]" />
       <item value="Bean" />
       <item value="configuration" />
@@ -55,12 +56,11 @@
       <item value="compone" />
       <item value="compo" />
       <item value="com" />
-      <item value="Admin Example" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>
