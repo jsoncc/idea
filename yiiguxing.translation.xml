@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="configuration" />
+      <item value="processor" />
       <item value="hello&#10;&#10;&#10;&#10;" />
       <item value="hello&#10;" />
       <item value="determinedfgdg&#10;" />
@@ -54,19 +56,17 @@
       <item value="Admin Example" />
       <item value="session" />
       <item value="resolve" />
-      <item value="handler" />
-      <item value="handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="33" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622881925604" />
+    <option name="lastTrimTime" value="1623812218208" />
   </component>
 </application>
