@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="Bean" />
       <item value="configuration" />
       <item value="processor" />
       <item value="hello&#10;&#10;&#10;&#10;" />
@@ -55,12 +56,11 @@
       <item value="com" />
       <item value="Admin Example" />
       <item value="session" />
-      <item value="resolve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>
