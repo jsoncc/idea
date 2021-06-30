@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="get Field Errors" />
       <item value="sorts" />
       <item value="Parameters" />
       <item value="Invalid bound statement" />
@@ -55,18 +56,17 @@
       <item value="forbide" />
       <item value="forbiden" />
       <item value="for" />
-      <item value="already" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624520483408" />
+    <option name="lastTrimTime" value="1625052985415" />
   </component>
 </application>
