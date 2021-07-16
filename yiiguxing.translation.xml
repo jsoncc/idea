@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="785" />
     <option name="newTranslationDialogY" value="112" />
     <histories>
+      <item value="validate" />
       <item value="Invalid bound statement" />
       <item value="Expires At" />
       <item value="Category" />
@@ -55,12 +56,11 @@
       <item value="finak" />
       <item value="f" />
       <item value="string" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>
