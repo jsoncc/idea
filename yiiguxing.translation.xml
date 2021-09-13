@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="183" />
+    <option name="newTranslationDialogWidth" value="473" />
+    <option name="newTranslationDialogX" value="785" />
+    <option name="newTranslationDialogY" value="112" />
+    <histories>
+      <item value="Operand" />
+      <item value="suffix Overrides" />
+      <item value="validate" />
+      <item value="Invalid bound statement" />
+      <item value="Expires At" />
+      <item value="Category" />
+      <item value="Result Maps collection does not contain value for" />
+      <item value="get Field Errors" />
+      <item value="sorts" />
+      <item value="Parameters" />
+      <item value="Unknown column 'parentId0' in 'field list'" />
+      <item value="Ambiguous collection type for property" />
+      <item value="specify" />
+      <item value="HTTP method names must be tokens" />
+      <item value="Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.StackOverflowError at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessorAutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660) ~[spring-beans-5.3.8.jar:5.3.8]" />
+      <item value="Bean" />
+      <item value="configuration" />
+      <item value="processor" />
+      <item value="hello&#10;&#10;&#10;&#10;" />
+      <item value="hello&#10;" />
+      <item value="determinedfgdg&#10;" />
+      <item value="determine&#10;" />
+      <item value="deter" />
+      <item value="dee" />
+      <item value="de" />
+      <item value="determine" />
+      <item value="thymeleaf" />
+      <item value="thymela" />
+      <item value="thy" />
+      <item value="th" />
+      <item value="fail" />
+      <item value="fali" />
+      <item value="component&#10;" />
+      <item value="typo" />
+      <item value="param" />
+      <item value="entries" />
+      <item value="implements" />
+      <item value="No qualifying bean of type 'com.jsoncc.crowd.service.api.AdminService' available: expected single matching bean but found 2:" />
+      <item value="qualifying" />
+      <item value="Could not autowire. No beans of 'AdminService' type found. " />
+      <item value="required" />
+      <item value="deploy Directory" />
+      <item value="Error during artifact deployment." />
+      <item value="deployment" />
+      <item value="String" />
+      <item value="util" />
+      <item value="signature" />
+      <item value="sig" />
+      <item value="final" />
+      <item value="finak" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="GREEK" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1626065801487" />
+  </component>
+</application>
