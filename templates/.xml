@@ -25,4 +25,10 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="sc" value="Scanner sc = new Scanner(System.in);" description="scanner输入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
