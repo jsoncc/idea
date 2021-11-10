@@ -31,4 +31,12 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="***" value="/**&#10; * &#10; * @date $date$ $time$ &#10; */" description="注释时间" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
