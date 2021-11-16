@@ -8,6 +8,7 @@
       <mapping ext="r0" type="PLAIN_TEXT" />
       <mapping ext="do" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
+      <mapping ext="mine" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
