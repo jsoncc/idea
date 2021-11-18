@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="20" />
     <option name="tabFontSize" value="22" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="2d95435b:1774dc77294:-8000" />
