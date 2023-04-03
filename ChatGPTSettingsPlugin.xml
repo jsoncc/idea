@@ -1,5 +1,6 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="enableProxy" value="true" />
     <option name="apiKey" value="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" />
     <option name="enableContext" value="true" />
     <option name="enableTokenConsumption" value="true" />
