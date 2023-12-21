@@ -44,7 +44,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="objectMapper" value="ObjectMapper objectMapper = new ObjectMapper();&#10;String jsonString = &quot;&quot;;&#10;try {&#10;&#9;jsonString = objectMapper.writeValueAsString(scm);&#10;} catch (JsonProcessingException e) {&#10;&#9;e.printStackTrace();&#10;}" description="使用 JSON 序列化,将对象转换成JSON字符串" toReformat="false" toShortenFQNames="true">
+  <template name="objectToString" value="ObjectMapper objectMapper = new ObjectMapper();&#10;String jsonString = &quot;&quot;;&#10;try {&#10;&#9;jsonString = objectMapper.writeValueAsString(scm);&#10;} catch (JsonProcessingException e) {&#10;&#9;e.printStackTrace();&#10;}" description="使用 JSON 序列化,将对象转换成JSON字符串" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
