@@ -1,5 +1,5 @@
 <templateSet group="自定义">
-  <template name="sdf" value="SimpleDateFormat sdf = new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;);" description="时间戳" toReformat="false" toShortenFQNames="true">
+  <template name="sdf" value="SimpleDateFormat sdf = new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;);&#10;sdf.format(Date XXX);" description="将Date类型时间戳转成固定格式" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -45,6 +45,11 @@
     </context>
   </template>
   <template name="objectMapper" value="ObjectMapper objectMapper = new ObjectMapper();&#10;String jsonString = &quot;&quot;;&#10;try {&#10;&#9;jsonString = objectMapper.writeValueAsString(scm);&#10;} catch (JsonProcessingException e) {&#10;&#9;e.printStackTrace();&#10;}" description="使用 JSON 序列化,将对象转换成JSON字符串" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="stringToDate" value="String date = &quot;1970-01-01&quot;;&#10;Date startDate = null;&#10;try {&#10;&#9;startDate = new SimpleDateFormat(&quot;yyyy-MM-dd&quot;).parse(date);&#10;} catch (ParseException e) {&#10;&#9;e.printStackTrace();&#10;}" description="将String类型转换成Date" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
