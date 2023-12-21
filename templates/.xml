@@ -39,4 +39,14 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="md5" value="public String getMD5(String input) {&#10;&#9;try {&#10;&#9;&#9;MessageDigest md = MessageDigest.getInstance(&quot;MD5&quot;);&#10;&#9;&#9;byte[] messageDigest = md.digest(input.getBytes());&#10;&#9;&#9;StringBuilder hexStringBuilder = new StringBuilder();&#10;&#9;&#9;for (byte b : messageDigest) {&#10;&#9;&#9;&#9;hexStringBuilder.append(String.format(&quot;%02x&quot;, b));&#10;&#9;&#9;}&#10;&#9;&#9;return hexStringBuilder.toString();&#10;&#9;} catch (NoSuchAlgorithmException e) {&#10;&#9;&#9;e.printStackTrace();&#10;&#9;&#9;return null;&#10;&#9;}&#10;}" description="md5加密封装，续下载数据的判断" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="objectMapper" value="ObjectMapper objectMapper = new ObjectMapper();&#10;String jsonString = &quot;&quot;;&#10;try {&#10;&#9;jsonString = objectMapper.writeValueAsString(scm);&#10;} catch (JsonProcessingException e) {&#10;&#9;e.printStackTrace();&#10;}" description="使用 JSON 序列化,将对象转换成JSON字符串" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
