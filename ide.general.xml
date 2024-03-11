@@ -4,6 +4,7 @@
     <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="D:\JavaFiles\IdeaProjects" />
     <option name="inactiveTimeout" value="10" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
     <option name="autoSyncFiles" value="false" />
   </component>
