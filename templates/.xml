@@ -54,4 +54,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="stringToBigDecimal" value="String strValue = &quot;1234.56&quot;;  // 假设这是你的String值  &#10;BigDecimal bigDecimalValue = new BigDecimal(strValue);  // 将String转换为BigDecimal" description="将String类型转成BigDecimal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
