@@ -64,4 +64,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="stingyyyyMMddToyyyy-MM-dd" value="public static String convertDate(String date) {&#10;        SimpleDateFormat inputFormat = new SimpleDateFormat(&quot;yyyyMMdd&quot;);&#10;        SimpleDateFormat outputFormat = new SimpleDateFormat(&quot;yyyy-MM-dd&quot;);&#10;        try {&#10;            Date parsedDate = inputFormat.parse(date);&#10;            return outputFormat.format(parsedDate);&#10;        } catch (ParseException e) {&#10;            e.printStackTrace();&#10;            return null;&#10;        }&#10;    }" description="String：yyyyMMdd -&gt; yyyy-MM-dd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
