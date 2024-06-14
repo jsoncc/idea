@@ -79,6 +79,7 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
