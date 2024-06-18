@@ -86,6 +86,7 @@
     <option name="translationDialogLocationX" value="681" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="duration" />
       <item value="INVALID" />
       <item value="业务" />
       <item value="yeq" />
@@ -95,7 +96,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
