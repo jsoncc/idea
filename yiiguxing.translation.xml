@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718170145654" />
+    <option name="lastTrimTime" value="1718690625300" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -83,9 +83,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationX" value="681" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="INVALID" />
       <item value="业务" />
       <item value="yeq" />
       <item value="Copy the property values of the given source bean into the given target bean, only setting properties defined in the given &quot;editable&quot; class (or interface)." />
@@ -93,7 +94,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
