@@ -69,4 +69,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="stringToString" value="public String multiplyAndAssign(String a) {&#10;    if (a != null &amp;&amp; !a.isEmpty()) {&#10;        BigDecimal capital = new BigDecimal(a);&#10;        BigDecimal result = capital.multiply(new BigDecimal(&quot;100&quot;));&#10;        a = result.toPlainString();&#10;    }&#10;    return a;&#10;}" description="stringToBigdecimalToString，将String乘100再转成String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
