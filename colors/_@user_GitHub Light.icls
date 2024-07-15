@@ -4,12 +4,12 @@
     <property name="created">2024-07-12T11:02:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.3.7.0.0</property>
-    <property name="modified">2024-07-15T09:25:05</property>
+    <property name="modified">2024-07-15T10:03:10</property>
     <property name="originalScheme">GitHub Light</property>
     <property name="partialSave">true</property>
     <property name="pluginId">club.nutsoft.Github3Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
 </scheme>
