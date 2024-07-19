@@ -83,9 +83,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="619" />
-    <option name="translationDialogLocationY" value="375" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="有效" />
       <item value="step over" />
       <item value="迁移" />
       <item value="展示" />
@@ -99,8 +100,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
