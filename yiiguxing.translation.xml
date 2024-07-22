@@ -86,6 +86,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="是否最终" />
       <item value="有效" />
       <item value="step over" />
       <item value="迁移" />
@@ -100,8 +101,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
