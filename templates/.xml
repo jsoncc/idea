@@ -74,4 +74,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="stringJsonToObject" value="String jsonString = &quot;{ \&quot;name\&quot;: \&quot;John\&quot;, \&quot;age\&quot;: 30 }&quot;;&#10;&#10;ObjectMapper objectMapper = new ObjectMapper();&#10;&#10;try {&#10;&#9;User user = objectMapper.readValue(jsonString, User.class);&#10;&#9;System.out.println(user);&#10;} catch (IOException e) {&#10;&#9;e.printStackTrace();&#10;}" description="String类型的json数据转成对象" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
