@@ -84,8 +84,24 @@
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="377" />
+    <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="NOT_APPROVED_ADDITIONAL_INFORMATION" />
+      <item value="开立失败" />
+      <item value="开立受理中" />
+      <item value="开立成功" />
+      <item value="已签约待支付" />
+      <item value="受理审核通过" />
+      <item value="additional" />
+      <item value="不通过需补充资料" />
+      <item value="受理审核不通过" />
+      <item value="预审核通过" />
+      <item value="预审不通过" />
+      <item value="预审核不通过" />
+      <item value="资方管理中心" />
+      <item value="Asset" />
+      <item value="资方" />
+      <item value="zi" />
       <item value="金融中台" />
       <item value="备注" />
       <item value="描述" />
@@ -105,8 +121,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
