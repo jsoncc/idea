@@ -86,6 +86,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="guarantee_status" />
       <item value="取消失败" />
       <item value="取消核验中" />
       <item value="取消成功" />
@@ -135,11 +136,10 @@
       <item value="迁移" />
       <item value="展示" />
       <item value="multiply and assign" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
+        <entry key="CHINESE" value="189" />
         <entry key="ENGLISH" value="181" />
       </map>
     </option>
