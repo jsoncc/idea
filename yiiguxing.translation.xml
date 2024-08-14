@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1722922532969" />
+    <option name="lastTrimTime" value="1723610171813" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -83,9 +83,12 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="394" />
+    <option name="translationDialogLocationX" value="662" />
+    <option name="translationDialogLocationY" value="442" />
     <histories>
+      <item value="保证金" />
+      <item value="PROJECT_CODE_CONTRACT_REUSE_ERROR(&quot;EGB18103&quot;, &quot;当前项目信息下已有重复合同进行履约保函&quot;)," />
+      <item value="PROJECT_CODE_CONTRACT_REUSE_ERROR" />
       <item value="guarantee_status" />
       <item value="取消失败" />
       <item value="取消核验中" />
@@ -133,14 +136,11 @@
       <item value="是否最终" />
       <item value="有效" />
       <item value="step over" />
-      <item value="迁移" />
-      <item value="展示" />
-      <item value="multiply and assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="190" />
       </map>
     </option>
   </component>
