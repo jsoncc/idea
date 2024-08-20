@@ -86,6 +86,13 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="suppress tips " />
+      <item value="suppress tips for" />
+      <item value="supp" />
+      <item value="statistics" />
+      <item value="sta" />
+      <item value="snooze" />
+      <item value="snoo" />
       <item value="robot" />
       <item value="redirect" />
       <item value="是否存在" />
@@ -129,18 +136,11 @@
       <item value="预审核通过" />
       <item value="预审不通过" />
       <item value="预审核不通过" />
-      <item value="资方管理中心" />
-      <item value="Asset" />
-      <item value="资方" />
-      <item value="zi" />
-      <item value="金融中台" />
-      <item value="备注" />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="205" />
       </map>
     </option>
   </component>
