@@ -86,6 +86,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="platForm" />
       <item value="suppress tips " />
       <item value="suppress tips for" />
       <item value="supp" />
@@ -135,11 +136,10 @@
       <item value="受理审核不通过" />
       <item value="预审核通过" />
       <item value="预审不通过" />
-      <item value="预审核不通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
+        <entry key="CHINESE" value="218" />
         <entry key="ENGLISH" value="205" />
       </map>
     </option>
