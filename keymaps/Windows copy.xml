@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateCommitToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="f11" />
   </action>

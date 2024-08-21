@@ -83,9 +83,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="394" />
+    <option name="translationDialogLocationX" value="676" />
+    <option name="translationDialogLocationY" value="380" />
     <histories>
+      <item value="用户注册" />
       <item value="platForm" />
       <item value="suppress tips " />
       <item value="suppress tips for" />
@@ -135,12 +136,11 @@
       <item value="不通过需补充资料" />
       <item value="受理审核不通过" />
       <item value="预审核通过" />
-      <item value="预审不通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="212" />
       </map>
     </option>
   </component>
