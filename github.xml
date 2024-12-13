@@ -1,6 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account id="b6c70799-b8c3-462b-8618-dc59c788bf6b" name="jsoncc">
+    <account name="jsoncc" id="79de9315-764c-44a0-8dcc-ea12125b5f62">
       <server host="github.com" />
     </account>
   </component>
