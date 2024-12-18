@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1724047641333" />
+    <option name="lastTrimTime" value="1734502801023" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -78,15 +78,14 @@
         <option name="appId" value="20240612002075248" />
       </app-key>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
-    <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="BAIDU" />
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="689" />
-    <option name="translationDialogLocationY" value="378" />
+    <option name="translationDialogLocationX" value="730" />
+    <option name="translationDialogLocationY" value="375" />
     <histories>
+      <item value="middle" />
       <item value="一般" />
       <item value="普通" />
       <item value="普通用户" />
@@ -136,11 +135,11 @@
       <item value="开立成功" />
       <item value="已签约待支付" />
       <item value="受理审核通过" />
-      <item value="additional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
+        <entry key="CHINESE_SIMPLIFIED" value="2" />
         <entry key="ENGLISH" value="223" />
       </map>
     </option>
