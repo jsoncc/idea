@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1734502801023" />
+    <option name="lastTrimTime" value="1735106070131" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="破解" />
+      <item value="o" />
+      <item value="oi" />
       <item value="Squash" />
       <item value="mock" />
       <item value="mo" />
@@ -132,15 +135,12 @@
       <item value="长度" />
       <item value="deadline" />
       <item value="支付截止时间" />
-      <item value="NOT_APPROVED_ADDITIONAL_INFORMATION" />
-      <item value="开立失败" />
-      <item value="开立受理中" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="8" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE_SIMPLIFIED" value="14" />
+        <entry key="ENGLISH" value="232" />
       </map>
     </option>
   </component>
