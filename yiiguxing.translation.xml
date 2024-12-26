@@ -82,9 +82,16 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="563" />
-    <option name="translationDialogLocationY" value="378" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value=" infiltration" />
+      <item value="Template infiltration" />
+      <item value="模版渗透" />
+      <item value="模版" />
+      <item value="模版chentou" />
+      <item value="模版chen" />
+      <item value="moban" />
       <item value="Promise" />
       <item value="破解" />
       <item value="o" />
@@ -128,19 +135,12 @@
       <item value="s" />
       <item value="转换" />
       <item value="商户" />
-      <item value="数据处理" />
-      <item value="处理数据" />
-      <item value="状态变更" />
-      <item value="zhuang" />
-      <item value="格式" />
-      <item value="长度" />
-      <item value="deadline" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="15" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE_SIMPLIFIED" value="22" />
+        <entry key="ENGLISH" value="238" />
       </map>
     </option>
   </component>
