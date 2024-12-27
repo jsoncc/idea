@@ -82,9 +82,12 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="762" />
-    <option name="translationDialogLocationY" value="409" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="minus" />
+      <item value="minu" />
+      <item value="min" />
       <item value="metric" />
       <item value="metrics" />
       <item value="metri" />
@@ -132,15 +135,12 @@
       <item value="PROJECT_CODE_CONTRACT_REUSE_ERROR(&quot;EGB18103&quot;, &quot;当前项目信息下已有重复合同进行履约保函&quot;)," />
       <item value="PROJECT_CODE_CONTRACT_REUSE_ERROR" />
       <item value="guarantee_status" />
-      <item value="取消失败" />
-      <item value="取消核验中" />
-      <item value="取消成功" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="39" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE_SIMPLIFIED" value="43" />
+        <entry key="ENGLISH" value="256" />
       </map>
     </option>
   </component>
