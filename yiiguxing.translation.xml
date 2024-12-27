@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
+    <option name="translationDialogLocationX" value="762" />
+    <option name="translationDialogLocationY" value="409" />
     <histories>
+      <item value="metric" />
       <item value="metrics" />
       <item value="metri" />
       <item value="met" />
@@ -134,12 +135,11 @@
       <item value="取消失败" />
       <item value="取消核验中" />
       <item value="取消成功" />
-      <item value="支付成功" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="38" />
+        <entry key="CHINESE_SIMPLIFIED" value="39" />
         <entry key="ENGLISH" value="253" />
       </map>
     </option>
