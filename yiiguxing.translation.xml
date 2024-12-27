@@ -85,6 +85,18 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="metrics" />
+      <item value="metri" />
+      <item value="met" />
+      <item value="me" />
+      <item value="m" />
+      <item value="ne" />
+      <item value="非实时" />
+      <item value="非shishi" />
+      <item value="非shihsi" />
+      <item value="fei" />
+      <item value="实时" />
+      <item value="shishi" />
       <item value=" infiltration" />
       <item value="Template infiltration" />
       <item value="模版渗透" />
@@ -123,24 +135,12 @@
       <item value="取消核验中" />
       <item value="取消成功" />
       <item value="支付成功" />
-      <item value="预受理结果" />
-      <item value="受理结果" />
-      <item value="yu" />
-      <item value="repositories" />
-      <item value="reposi" />
-      <item value="re" />
-      <item value="shelf" />
-      <item value="she" />
-      <item value="shelve" />
-      <item value="s" />
-      <item value="转换" />
-      <item value="商户" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="22" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE_SIMPLIFIED" value="38" />
+        <entry key="ENGLISH" value="253" />
       </map>
     </option>
   </component>
