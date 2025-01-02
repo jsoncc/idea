@@ -198,6 +198,19 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="```&#10;public class FileClientProperties {&#10;&#10;    private String host;&#10;&#10;    private Integer port;&#10;&#10;    private String protocol;&#10;&#10;    private String username;&#10;&#10;    private String password;&#10;&#10;    private String root;&#10;&#10;    private String privateKey;&#10;&#10;    private String passphrase;&#10;&#10;    private String sessionStrictHostKeyChecking;&#10;&#10;    private Integer sessionConnectTimeout;&#10;&#10;    private Integer channelConnectedTimeout;&#10;}&#10;```&#10;&#10;&#10;```&#10;Session session = createSession(jsch, cmftConfig.getHost(), cmftConfig.getUsername(), cmftConfig.getPort());&#10;session.setPassword(cmftConfig.getPassword());&#10;session.connect(cmftConfig.getSessionConnectTimeout());&#10;```&#10;&#10;如何把上面的密码连接改为privateKey连接&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
