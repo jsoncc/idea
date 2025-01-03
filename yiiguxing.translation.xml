@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="710" />
-    <option name="translationDialogLocationY" value="366" />
+    <option name="translationDialogLocationX" value="638" />
+    <option name="translationDialogLocationY" value="376" />
     <histories>
+      <item value="Interactively " />
       <item value="数据采集" />
       <item value="Identity" />
       <item value="私钥路径" />
@@ -134,12 +135,11 @@
       <item value="platForm" />
       <item value="suppress tips " />
       <item value="suppress tips for" />
-      <item value="supp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="60" />
+        <entry key="CHINESE_SIMPLIFIED" value="61" />
         <entry key="ENGLISH" value="269" />
       </map>
     </option>
