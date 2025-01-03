@@ -78,13 +78,17 @@
         <option name="appId" value="20240612002075248" />
       </app-key>
     </option>
+    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="638" />
-    <option name="translationDialogLocationY" value="376" />
+    <option name="translationDialogLocationX" value="693" />
+    <option name="translationDialogLocationY" value="418" />
     <histories>
+      <item value="proportion" />
+      <item value="比例" />
+      <item value="bil" />
       <item value="Interactively " />
       <item value="数据采集" />
       <item value="Identity" />
@@ -132,15 +136,12 @@
       <item value="普通" />
       <item value="普通用户" />
       <item value="用户注册" />
-      <item value="platForm" />
-      <item value="suppress tips " />
-      <item value="suppress tips for" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="61" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE_SIMPLIFIED" value="65" />
+        <entry key="ENGLISH" value="272" />
       </map>
     </option>
   </component>
