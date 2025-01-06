@@ -118,6 +118,87 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&lt;a v-for=&quot;(item, index) in (info.refundFileList || [])&quot; :key=&quot;index&quot; class=&quot;confiscation-file&quot; @click=&quot;viewConfiscatedFile(item.id)&quot;&gt;&#10;                          &lt;span&gt;&#10;                            {{ item.fileName }}&#10;                            &lt;a-button type=&quot;primary&quot; style=&quot;margin-left: 20px;&quot; @click.stop=&quot;downloadConfiscatedFile(item.id, item.fileName)&quot;&gt;下载文件&lt;/a-button&gt;&#10;                          &lt;/span&gt;&#10;                        &lt;/a&gt;当info.refundFileList为空的时候，设置一个值为&quot;/&quot;&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="262" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="C:\newGradle\e-backletter-enterprise-fe\src\views\transferBusiness\detail\Detail.vue#L262-L262" />
+                      <option name="name" value="C:\newGradle\e-backletter-enterprise-fe\src\views\transferBusiness\detail\Detail.vue#L262-L262" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="statLine" value="262" />
+                      <option name="text" value="Detail.vue" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
