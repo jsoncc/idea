@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="646" />
-    <option name="translationDialogLocationY" value="371" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="valid" />
       <item value="agent" />
       <item value="国华" />
       <item value="投标" />
@@ -134,13 +135,12 @@
       <item value="破解" />
       <item value="o" />
       <item value="oi" />
-      <item value="Squash" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="83" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE_SIMPLIFIED" value="89" />
+        <entry key="ENGLISH" value="292" />
       </map>
     </option>
   </component>
