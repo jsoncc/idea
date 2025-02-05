@@ -510,6 +510,19 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&lt;flow-chart-opt-modal-for-gh&#10;              v-else-if=&quot;productGroup === '02' &amp;&amp; guaranteeStatus !== '3'&quot;&#10;              :performDetail=&quot;performDetail&quot;&#10;              :flowDetail=&quot;flowDetail&quot;&#10;              @toSupplementaryMaterials=&quot;showInnerModal&quot;&#10;            &gt;&#10;            &lt;/flow-chart-opt-modal-for-gh&gt;解析代码" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
