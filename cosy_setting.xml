@@ -520,19 +520,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="判断一个String的长度是不是yyyyMMddHHmmss" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="```&#10;List&lt;OrderBidInfoDO&gt; orderBidInfoList = orderBidInfoDao.queryOrderBidInfoWithGuaranteeId(egApplyInfoDO.getId());&#10;```&#10;&#10;如果orderBidInfoList有多个值，取出来OrderBidInfoDO中private String bidExpiryTime;时间离当前时间最远的一条&#10;&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1872,6 +1859,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="解析String[] payingStatusArrays = payingStatusList.toArray(new String[]{});" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
