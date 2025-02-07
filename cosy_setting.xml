@@ -523,6 +523,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&lt;a class=&quot;opt-btn&quot; @click=&quot;handleFlowCharts(getPerformId)&quot;&gt;查看流程图&lt;/a&gt;将其修改为一进入当前页面就触发，不是点击按钮触发" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
