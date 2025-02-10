@@ -536,6 +536,19 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="&lt;div class=&quot;info-value&quot;&gt;{{ item.forfeitFinishTime | dateTimeFilter }}&lt;/div&gt;当item.forfeitFinishTime有值的时候展示item.forfeitFinishTime，为空的时候展示&quot;/&quot;&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
