@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeGPT_CodeGPTServiceSettings_280">
+    <option name="chatCompletionSettings">
+      <CodeGPTServiceChatCompletionSettingsState>
+        <option name="model" value="deepseek-r1" />
+      </CodeGPTServiceChatCompletionSettingsState>
+    </option>
+  </component>
+</application>

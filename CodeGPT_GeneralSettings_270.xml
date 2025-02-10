@@ -1,5 +1,5 @@
 <application>
   <component name="CodeGPT_GeneralSettings_270">
-    <option name="selectedService" value="Custom OpenAI" />
+    <option name="selectedService" value="OpenAI" />
   </component>
 </application>
