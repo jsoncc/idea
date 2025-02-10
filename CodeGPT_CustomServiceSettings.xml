@@ -1,0 +1,29 @@
+<application>
+  <component name="CodeGPT_CustomServiceSettings">
+    <option name="chatCompletionSettings">
+      <CustomServiceChatCompletionSettingsState>
+        <option name="body" value="{&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-4&quot;,&quot;messages&quot;:&quot;$OPENAI_MESSAGES&quot;,&quot;temperature&quot;:0.1,&quot;max_tokens&quot;:1024}" />
+        <option name="headers">
+          <map>
+            <entry key="Authorization" value="Bearer $CUSTOM_SERVICE_API_KEY" />
+            <entry key="Content-Type" value="application/json" />
+            <entry key="X-LLM-Application-Tag" value="codegpt" />
+          </map>
+        </option>
+        <option name="url" value="https://api.deepseek.com/v1" />
+      </CustomServiceChatCompletionSettingsState>
+    </option>
+    <option name="codeCompletionSettings">
+      <CustomServiceCodeCompletionSettingsState>
+        <option name="body" value="{&quot;suffix&quot;:&quot;$SUFFIX&quot;,&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-3.5-turbo-instruct&quot;,&quot;temperature&quot;:0.2,&quot;prompt&quot;:&quot;$PREFIX&quot;,&quot;max_tokens&quot;:24}" />
+        <option name="headers">
+          <map>
+            <entry key="Authorization" value="Bearer $CUSTOM_SERVICE_API_KEY" />
+            <entry key="Content-Type" value="application/json" />
+            <entry key="X-LLM-Application-Tag" value="codegpt" />
+          </map>
+        </option>
+      </CustomServiceCodeCompletionSettingsState>
+    </option>
+  </component>
+</application>
