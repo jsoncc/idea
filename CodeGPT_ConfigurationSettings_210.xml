@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeGPT_ConfigurationSettings_210">
+    <option name="tableData">
+      <map>
+        <entry key="Explain" value="Explain the selected code {{selectedCode}}" />
+        <entry key="Find Bugs" value="Find bugs and output code with bugs fixed in the following code: {{selectedCode}}" />
+        <entry key="Optimize" value="Optimize the selected code {{selectedCode}}" />
+        <entry key="Refactor" value="Refactor the selected code {{selectedCode}}" />
+        <entry key="Write Tests" value="Write Tests for the selected code {{selectedCode}}" />
+      </map>
+    </option>
+  </component>
+</application>
