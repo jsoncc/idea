@@ -23,6 +23,7 @@
             <entry key="X-LLM-Application-Tag" value="codegpt" />
           </map>
         </option>
+        <option name="url" value="https://api.deepseek.com/v1" />
       </CustomServiceCodeCompletionSettingsState>
     </option>
   </component>
