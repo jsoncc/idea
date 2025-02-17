@@ -2,7 +2,7 @@
   <component name="CodeGPT_CodeGPTServiceSettings_280">
     <option name="chatCompletionSettings">
       <CodeGPTServiceChatCompletionSettingsState>
-        <option name="model" value="deepseek-r1" />
+        <option name="model" value="deepseek-v3" />
       </CodeGPTServiceChatCompletionSettingsState>
     </option>
   </component>

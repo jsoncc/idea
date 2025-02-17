@@ -15,6 +15,6 @@
         </option>
       </CustomServiceSettingsState>
     </option>
-    <option name="services" value="[{&quot;url&quot;:null,&quot;name&quot;:&quot;Default&quot;,&quot;headers&quot;:{},&quot;body&quot;:{},&quot;template&quot;:&quot;OPENAI&quot;,&quot;chatCompletionSettings&quot;:{&quot;url&quot;:null,&quot;headers&quot;:{},&quot;body&quot;:{},&quot;modificationCount&quot;:18,&quot;equalToDefault&quot;:false},&quot;codeCompletionSettings&quot;:{&quot;url&quot;:null,&quot;headers&quot;:{},&quot;infillTemplate&quot;:&quot;OPENAI&quot;,&quot;body&quot;:{},&quot;codeCompletionsEnabled&quot;:false,&quot;parseResponseAsChatCompletions&quot;:false,&quot;modificationCount&quot;:22,&quot;equalToDefault&quot;:false},&quot;modificationCount&quot;:41,&quot;equalToDefault&quot;:false}]" />
+    <option name="services" value="[{&quot;url&quot;:null,&quot;name&quot;:&quot;Default&quot;,&quot;headers&quot;:{},&quot;body&quot;:{},&quot;template&quot;:&quot;OPENAI&quot;,&quot;codeCompletionSettings&quot;:{&quot;url&quot;:null,&quot;headers&quot;:{},&quot;body&quot;:{},&quot;codeCompletionsEnabled&quot;:false,&quot;parseResponseAsChatCompletions&quot;:false,&quot;infillTemplate&quot;:&quot;OPENAI&quot;,&quot;modificationCount&quot;:15,&quot;equalToDefault&quot;:false},&quot;chatCompletionSettings&quot;:{&quot;url&quot;:null,&quot;headers&quot;:{},&quot;body&quot;:{},&quot;modificationCount&quot;:13,&quot;equalToDefault&quot;:false},&quot;modificationCount&quot;:47,&quot;equalToDefault&quot;:false}]" />
   </component>
 </application>
