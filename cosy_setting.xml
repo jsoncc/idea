@@ -1,5 +1,10 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModelSelected">
+      <map>
+        <entry key="chat" value="dashscope_deepseek_reasoner" />
+      </map>
+    </option>
     <option name="dedicatedDomainUrl" value="" />
     <option name="localStoragePath" value="C:\Users\FBODC\.lingma" />
     <option name="parameter">
