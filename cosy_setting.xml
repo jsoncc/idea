@@ -647,19 +647,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="```&#10;public class FileClientProperties {&#10;&#10;    private String host;&#10;&#10;    private Integer port;&#10;&#10;    private String protocol;&#10;&#10;    private String username;&#10;&#10;    private String password;&#10;&#10;    private String root;&#10;&#10;    private String privateKey;&#10;&#10;    private String passphrase;&#10;&#10;    private String sessionStrictHostKeyChecking;&#10;&#10;    private Integer sessionConnectTimeout;&#10;&#10;    private Integer channelConnectedTimeout;&#10;}&#10;```&#10;&#10;&#10;```&#10;Session session = createSession(jsch, cmftConfig.getHost(), cmftConfig.getUsername(), cmftConfig.getPort());&#10;session.setPassword(cmftConfig.getPassword());&#10;session.connect(cmftConfig.getSessionConnectTimeout());&#10;```&#10;&#10;如何把上面的密码连接改为privateKey连接&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="File privateKeyFile = new File(cmftConfig.getPrivateKey());不存在怎么办" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1947,6 +1934,89 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="privateKeyInputStream.close();是否合理" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="95" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="C:\newGradle\eg-enterprise\service\enterprise-service\src\main\java\com\cmft\eg\enterprise\ftp\FileSystemServiceImpl.java#L95-L95" />
+                      <option name="name" value="C:\newGradle\eg-enterprise\service\enterprise-service\src\main\java\com\cmft\eg\enterprise\ftp\FileSystemServiceImpl.java#L95-L95" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="95" />
+                      <option name="text" value="FileSystemServiceImpl.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
