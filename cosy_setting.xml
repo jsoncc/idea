@@ -647,73 +647,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="com.jcraft.jsch.JSchException: Auth fail\n&#9;at com.jcraft.jsch.Session.connect(Session.java:519)\n&#9;at com.cmft.eg.enterprise.ftp.FileSystemServiceImpl.createCmftSftp(FileSystemServiceImpl.java:119)\n&#9;at com.cmft.eg.enterprise.ftp.FileSystemServiceImpl.getCmftSftp(FileSystemServiceImpl.java:71)\n&#9;at com.cmft.eg.enterprise.ftp.FileSystemServiceImpl.uploadFile(FileSystemServiceImpl.java:360)\n&#10;" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="file" />
-                          <option name="drillDownEnable" value="true" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="file" />
-                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
-                          <option name="text" value="#file" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine" />
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent" />
-                          <entry key="startLine" />
-                        </map>
-                      </option>
-                      <option name="id" value="C:\newGradle\eg-enterprise\service\enterprise-service\src\main\java\com\cmft\eg\enterprise\ftp\FileSystemServiceImpl.java" />
-                      <option name="name" value="C:\newGradle\eg-enterprise\service\enterprise-service\src\main\java\com\cmft\eg\enterprise\ftp\FileSystemServiceImpl.java" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="text" value="FileSystemServiceImpl.java" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="privateKeyPath指定一个路径应该怎么写" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -1983,6 +1916,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="只取List&lt;RefundOrderInfoDO&gt; refundOrderInfoDOList中RefundOrderInfoDO::getBidId不为空的数据&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
