@@ -85,6 +85,16 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="approval" />
+      <item value="signed" />
+      <item value="Pending" />
+      <item value="已出函" />
+      <item value="待出函" />
+      <item value="带出函" />
+      <item value="待缴费" />
+      <item value="待签约" />
+      <item value="审批中" />
+      <item value="申请中" />
       <item value="非工程" />
       <item value="工程" />
       <item value="valid" />
@@ -125,22 +135,12 @@
       <item value="非shihsi" />
       <item value="fei" />
       <item value="实时" />
-      <item value="shishi" />
-      <item value=" infiltration" />
-      <item value="Template infiltration" />
-      <item value="模版渗透" />
-      <item value="模版" />
-      <item value="模版chentou" />
-      <item value="模版chen" />
-      <item value="moban" />
-      <item value="Promise" />
-      <item value="破解" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="91" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE_SIMPLIFIED" value="101" />
+        <entry key="ENGLISH" value="295" />
       </map>
     </option>
   </component>
