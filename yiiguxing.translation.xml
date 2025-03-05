@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1736749540361" />
+    <option name="lastTrimTime" value="1741157126871" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -78,7 +78,6 @@
         <option name="appId" value="20240612002075248" />
       </app-key>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
   </component>
   <component name="Translation.States">
@@ -86,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="非工程" />
+      <item value="工程" />
       <item value="valid" />
       <item value="agent" />
       <item value="国华" />
@@ -134,13 +135,11 @@
       <item value="moban" />
       <item value="Promise" />
       <item value="破解" />
-      <item value="o" />
-      <item value="oi" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="89" />
+        <entry key="CHINESE_SIMPLIFIED" value="91" />
         <entry key="ENGLISH" value="292" />
       </map>
     </option>
