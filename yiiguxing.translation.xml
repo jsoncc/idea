@@ -85,9 +85,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="letters" />
+      <item value="letter" />
+      <item value="lett" />
+      <item value="开函" />
       <item value="Bad return type in method reference: cannot convert java.util.List&lt;com.cmft.eg.deposit.gateway.dto.gxt.statusnotifynode.VerifyInfoDTO&gt; to java.util.List&lt;? extends com.cmft.eg.enterprise.enums.gxt.GuaranteeStatusNoticeTypeEnum.StatusHolder&gt;" />
       <item value="签约" />
-      <item value="开函" />
       <item value="kai" />
       <item value="kaik" />
       <item value="LETTER" />
@@ -132,15 +135,12 @@
       <item value="sessionStrictHostKeyChecking" />
       <item value="remote: The project you were looking for could not be found or you don't have permission to view it. repository 'http://gitlab.devops.cmft/jinrong/zyzr/dzbh/eg-enterprise.git/' not found" />
       <item value="minus" />
-      <item value="minu" />
-      <item value="min" />
-      <item value="metric" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="129" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE_SIMPLIFIED" value="140" />
+        <entry key="ENGLISH" value="330" />
       </map>
     </option>
   </component>
