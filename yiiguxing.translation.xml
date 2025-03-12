@@ -82,9 +82,16 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="674" />
-    <option name="translationDialogLocationY" value="453" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="撤单" />
+      <item value="close" />
+      <item value="clo" />
+      <item value="关闭" />
+      <item value="申请中" />
+      <item value="申请汇总" />
+      <item value="Initial" />
       <item value="数据处理" />
       <item value="处理" />
       <item value="支付链接" />
@@ -112,7 +119,6 @@
       <item value="待缴费" />
       <item value="待签约" />
       <item value="审批中" />
-      <item value="申请中" />
       <item value="非工程" />
       <item value="工程" />
       <item value="valid" />
@@ -129,18 +135,12 @@
       <item value="Interactively " />
       <item value="数据采集" />
       <item value="Identity" />
-      <item value="私钥路径" />
-      <item value="si" />
-      <item value="passphrase" />
-      <item value="session Strict Host Key Checking" />
-      <item value="session Strict Host KeyChecking" />
-      <item value="session Strict HostKeyChecking" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="151" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE_SIMPLIFIED" value="178" />
+        <entry key="ENGLISH" value="366" />
       </map>
     </option>
   </component>
