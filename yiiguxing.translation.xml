@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="更新" />
+      <item value="表" />
       <item value="撤单" />
       <item value="close" />
       <item value="clo" />
@@ -133,14 +135,12 @@
       <item value="比例" />
       <item value="bil" />
       <item value="Interactively " />
-      <item value="数据采集" />
-      <item value="Identity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="178" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE_SIMPLIFIED" value="189" />
+        <entry key="ENGLISH" value="377" />
       </map>
     </option>
   </component>
