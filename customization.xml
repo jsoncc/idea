@@ -3,7 +3,6 @@
     <group value="RunToCursor" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Debug Header Toolbar" />
-      <option name="myInitialPosition" value="-1" />
     </group>
   </component>
 </application>
