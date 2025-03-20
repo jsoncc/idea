@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="格式" />
+      <item value="ge" />
       <item value="处理" />
       <item value="Formatting" />
       <item value="格式处理" />
@@ -133,14 +135,12 @@
       <item value="agent" />
       <item value="国华" />
       <item value="投标" />
-      <item value="decrypt" />
-      <item value="weight" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="212" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE_SIMPLIFIED" value="217" />
+        <entry key="ENGLISH" value="401" />
       </map>
     </option>
   </component>
