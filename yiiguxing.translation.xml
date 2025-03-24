@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1742176267901" />
+    <option name="lastTrimTime" value="1742795873309" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="不存在" />
+      <item value="保存自" />
+      <item value="bcuan" />
       <item value="数据加密" />
       <item value="数据jiam" />
       <item value="数据ji" />
@@ -132,15 +135,12 @@
       <item value="Pending" />
       <item value="已出函" />
       <item value="待出函" />
-      <item value="带出函" />
-      <item value="待缴费" />
-      <item value="待签约" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="242" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE_SIMPLIFIED" value="260" />
+        <entry key="ENGLISH" value="443" />
       </map>
     </option>
   </component>
