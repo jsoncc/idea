@@ -45,6 +45,9 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="UsageGrouping.FlattenModules" />
+  <action id="com.cool.request.HotkeyAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="编辑Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
