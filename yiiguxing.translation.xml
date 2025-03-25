@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="无效" />
+      <item value="后缀" />
+      <item value="houzhui" />
+      <item value="houz" />
       <item value="不存在" />
       <item value="保存自" />
       <item value="bcuan" />
@@ -131,16 +135,12 @@
       <item value="Properties" />
       <item value="gateway" />
       <item value="approval" />
-      <item value="signed" />
-      <item value="Pending" />
-      <item value="已出函" />
-      <item value="待出函" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="260" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE_SIMPLIFIED" value="273" />
+        <entry key="ENGLISH" value="456" />
       </map>
     </option>
   </component>
