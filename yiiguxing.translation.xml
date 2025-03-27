@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="环境" />
       <item value="敏感数据加密" />
       <item value="mingan" />
       <item value="ming" />
@@ -134,13 +135,12 @@
       <item value="kaik" />
       <item value="LETTER" />
       <item value="April" />
-      <item value="api" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="285" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE_SIMPLIFIED" value="293" />
+        <entry key="ENGLISH" value="476" />
       </map>
     </option>
   </component>
