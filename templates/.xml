@@ -79,7 +79,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="StringToLocalDateTime" value="DateTimeFormatter formatter = DateTimeFormatter.ofPattern(&quot;yyyy-MM-dd HH:mm:ss&quot;);&#10;LocalDateTime dateTime = LocalDateTime.parse(reqDTO.getInvoiceDate(), formatter);" description="字符串String转成字符串LocalDateTime" toReformat="false" toShortenFQNames="true">
+  <template name="stringToLocalDateTime" value="DateTimeFormatter formatter = DateTimeFormatter.ofPattern(&quot;yyyy-MM-dd HH:mm:ss&quot;);&#10;LocalDateTime dateTime = LocalDateTime.parse(reqDTO.getInvoiceDate(), formatter);" description="字符串String转成字符串LocalDateTime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
