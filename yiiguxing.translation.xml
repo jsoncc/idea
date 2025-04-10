@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="impl" />
+      <item value="i" />
       <item value="文件上传失败" />
       <item value=".setStaleConnectionCheckEnabled(true)" />
       <item value="enterprise" />
@@ -133,14 +135,12 @@
       <item value="@Transactional self-invocation (in effect, a method within the target object calling another method of the target object) does not lead to an actual transaction at runtime" />
       <item value="letters" />
       <item value="lett" />
-      <item value="开函" />
-      <item value="Bad return type in method reference: cannot convert java.util.List&lt;com.cmft.eg.deposit.gateway.dto.gxt.statusnotifynode.VerifyInfoDTO&gt; to java.util.List&lt;? extends com.cmft.eg.enterprise.enums.gxt.GuaranteeStatusNoticeTypeEnum.StatusHolder&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="303" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE_SIMPLIFIED" value="308" />
+        <entry key="ENGLISH" value="487" />
       </map>
     </option>
   </component>
