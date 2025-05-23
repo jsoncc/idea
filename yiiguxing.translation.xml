@@ -85,6 +85,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="允许" />
+      <item value="yun" />
+      <item value="yuan" />
       <item value="驳回" />
       <item value="boh" />
       <item value="特殊" />
@@ -132,15 +135,12 @@
       <item value="后缀" />
       <item value="houzhui" />
       <item value="houz" />
-      <item value="不存在" />
-      <item value="保存自" />
-      <item value="bcuan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="350" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE_SIMPLIFIED" value="357" />
+        <entry key="ENGLISH" value="530" />
       </map>
     </option>
   </component>
