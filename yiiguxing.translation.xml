@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1747722283935" />
+    <option name="lastTrimTime" value="1748228878703" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,13 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="迭代" />
+      <item value="项目迭代" />
+      <item value="xiangm" />
+      <item value="醒目爹" />
+      <item value="日常迭代" />
+      <item value="日常die" />
+      <item value="ri" />
       <item value="property" />
       <item value="允许" />
       <item value="yun" />
@@ -128,19 +135,12 @@
       <item value="eg_enterprise" />
       <item value="GuaranteeProcessor" />
       <item value="环境" />
-      <item value="敏感数据加密" />
-      <item value="mingan" />
-      <item value="ming" />
-      <item value="minguan" />
-      <item value="无效" />
-      <item value="后缀" />
-      <item value="houzhui" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="358" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE_SIMPLIFIED" value="383" />
+        <entry key="ENGLISH" value="555" />
       </map>
     </option>
   </component>
