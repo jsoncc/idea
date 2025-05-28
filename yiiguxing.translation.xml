@@ -82,6 +82,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="408" />
+    <option name="translationDialogLocationY" value="452" />
     <histories>
       <item value="企业认证" />
       <item value="迭代" />
