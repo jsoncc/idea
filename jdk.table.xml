@@ -7,7 +7,9 @@
       <homePath value="$USER_HOME$/.jdks/corretto-1.8.0_432" />
       <roots>
         <annotationsPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
