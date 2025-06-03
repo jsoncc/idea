@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1748228878703" />
+    <option name="lastTrimTime" value="1748918992027" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="408" />
-    <option name="translationDialogLocationY" value="452" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="发票文件" />
       <item value="企业认证" />
       <item value="迭代" />
       <item value="项目迭代" />
@@ -134,7 +135,6 @@
       <item value=".setStaleConnectionCheckEnabled(true)" />
       <item value="enterprise" />
       <item value="eg_enterprise" />
-      <item value="GuaranteeProcessor" />
     </histories>
     <option name="languageScores">
       <map>
