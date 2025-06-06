@@ -82,9 +82,12 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="385" />
+    <option name="translationDialogLocationX" value="390" />
+    <option name="translationDialogLocationY" value="196" />
     <histories>
+      <item value="schedule" />
+      <item value="sche" />
+      <item value="sch" />
       <item value="发票文件" />
       <item value="企业认证" />
       <item value="迭代" />
@@ -132,14 +135,11 @@
       <item value="impl" />
       <item value="i" />
       <item value="文件上传失败" />
-      <item value=".setStaleConnectionCheckEnabled(true)" />
-      <item value="enterprise" />
-      <item value="eg_enterprise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="387" />
+        <entry key="CHINESE_SIMPLIFIED" value="388" />
         <entry key="ENGLISH" value="559" />
       </map>
     </option>
