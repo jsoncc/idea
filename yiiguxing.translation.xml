@@ -1,0 +1,147 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="183" />
+    <option name="newTranslationDialogWidth" value="473" />
+    <option name="newTranslationDialogX" value="785" />
+    <option name="newTranslationDialogY" value="112" />
+    <histories>
+      <item value="profile" />
+      <item value="No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format &lt;plugin-prefix&gt;:&lt;goal&gt; or &lt;plugin-group-id&gt;:&lt;plugin-artifact-id&gt;[:&lt;plugin-version&gt;]:&lt;goal&gt;. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -&gt; [Help 1] org.apache.maven.lifecycle.NoGoalSpecifiedException: No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format &lt;plugin-prefix&gt;:&lt;goal&gt; or &lt;plugin-group-id&gt;:&lt;plugin-artifact-id&gt;[:&lt;plugin-version&gt;]:&lt;goal&gt;. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy." />
+      <item value="Operand" />
+      <item value="suffix Overrides" />
+      <item value="validate" />
+      <item value="Invalid bound statement" />
+      <item value="Expires At" />
+      <item value="Category" />
+      <item value="Result Maps collection does not contain value for" />
+      <item value="get Field Errors" />
+      <item value="sorts" />
+      <item value="Parameters" />
+      <item value="Unknown column 'parentId0' in 'field list'" />
+      <item value="Ambiguous collection type for property" />
+      <item value="specify" />
+      <item value="HTTP method names must be tokens" />
+      <item value="Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.StackOverflowError at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessorAutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660) ~[spring-beans-5.3.8.jar:5.3.8]" />
+      <item value="Bean" />
+      <item value="configuration" />
+      <item value="processor" />
+      <item value="hello&#10;&#10;&#10;&#10;" />
+      <item value="hello&#10;" />
+      <item value="determinedfgdg&#10;" />
+      <item value="determine&#10;" />
+      <item value="deter" />
+      <item value="dee" />
+      <item value="de" />
+      <item value="determine" />
+      <item value="thymeleaf" />
+      <item value="thymela" />
+      <item value="thy" />
+      <item value="th" />
+      <item value="fail" />
+      <item value="fali" />
+      <item value="component&#10;" />
+      <item value="typo" />
+      <item value="param" />
+      <item value="entries" />
+      <item value="implements" />
+      <item value="No qualifying bean of type 'com.jsoncc.crowd.service.api.AdminService' available: expected single matching bean but found 2:" />
+      <item value="qualifying" />
+      <item value="Could not autowire. No beans of 'AdminService' type found. " />
+      <item value="required" />
+      <item value="deploy Directory" />
+      <item value="Error during artifact deployment." />
+      <item value="deployment" />
+      <item value="String" />
+      <item value="util" />
+      <item value="signature" />
+      <item value="sig" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="GREEK" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1637132185432" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1750334029535" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20240612002075248" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
+  </component>
+  <component name="Translation.States">
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="339" />
+    <option name="translationDialogLocationY" value="205" />
+    <histories>
+      <item value="匹配" />
+      <item value="中标日期" />
+      <item value="captial" />
+      <item value="captia" />
+      <item value="captiat" />
+      <item value="schedule" />
+      <item value="sche" />
+      <item value="sch" />
+      <item value="发票文件" />
+      <item value="企业认证" />
+      <item value="迭代" />
+      <item value="项目迭代" />
+      <item value="xiangm" />
+      <item value="醒目爹" />
+      <item value="日常迭代" />
+      <item value="日常die" />
+      <item value="ri" />
+      <item value="property" />
+      <item value="允许" />
+      <item value="yun" />
+      <item value="yuan" />
+      <item value="驳回" />
+      <item value="boh" />
+      <item value="特殊" />
+      <item value="tesu" />
+      <item value="特俗" />
+      <item value="te" />
+      <item value="jiem" />
+      <item value="squash" />
+      <item value="squa" />
+      <item value="sq" />
+      <item value="s" />
+      <item value="稽核" />
+      <item value="shuj" />
+      <item value="revert" />
+      <item value="custom" />
+      <item value="c" />
+      <item value="aspect" />
+      <item value="aspec" />
+      <item value="a" />
+      <item value="pay-company" />
+      <item value="pay-compa" />
+      <item value="pay-com" />
+      <item value="pay-" />
+      <item value="pay-wa" />
+      <item value="pay" />
+      <item value="gateway" />
+      <item value="gatewa" />
+      <item value="gate" />
+      <item value="ga" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="236" />
+        <entry key="CHINESE_SIMPLIFIED" value="398" />
+        <entry key="ENGLISH" value="568" />
+      </map>
+    </option>
+  </component>
+</application>

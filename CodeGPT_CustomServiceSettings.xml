@@ -1,0 +1,15 @@
+<application>
+  <component name="CodeGPT_CustomServiceSettings">
+    <option name="chatCompletionSettings">
+      <CustomServiceChatCompletionSettingsState>
+        <option name="url" />
+      </CustomServiceChatCompletionSettingsState>
+    </option>
+    <option name="codeCompletionSettings">
+      <CustomServiceCodeCompletionSettingsState>
+        <option name="codeCompletionsEnabled" value="false" />
+        <option name="url" />
+      </CustomServiceCodeCompletionSettingsState>
+    </option>
+  </component>
+</application>

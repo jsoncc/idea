@@ -1,0 +1,57 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivateCommitToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
+  <action id="CopyPaths" />
+  <action id="CopyStoryContent" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="HippieCompletion" />
+  <action id="OptimizeImports" />
+  <action id="SendEOF" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="UsageGrouping.FlattenModules" />
+  <action id="com.cool.request.HotkeyAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="编辑Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="编辑Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+</keymap>

@@ -1,0 +1,5 @@
+<application>
+  <component name="CoolRequestGlobalRequestEnvironmentPersistent">
+    <option name="requestEnvironment" value="{&quot;environmentName&quot;:&quot;GlobalRequestEnvironment&quot;,&quot;hostAddress&quot;:null,&quot;id&quot;:&quot;GlobalRequestEnvironment&quot;,&quot;header&quot;:[],&quot;urlParam&quot;:[],&quot;formData&quot;:[],&quot;formUrlencoded&quot;:[],&quot;var&quot;:[],&quot;requestScript&quot;:null,&quot;responseScript&quot;:null}" />
+  </component>
+</application>
