@@ -1,6 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="adf99807-aee9-4514-b512-5f0e429f30da" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="_@user_GitHub Light" />
       <laf-to-scheme laf="ExperimentalLight" scheme="_@user_IntelliJ Light" />
