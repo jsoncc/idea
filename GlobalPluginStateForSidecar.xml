@@ -1,0 +1,10 @@
+<application>
+  <component name="GlobalPluginStateForSidecar">
+    <option name="values">
+      <map>
+        <entry key="sidecar.agent.augment/clients/sidecar/chat-mode" value="&quot;CHAT&quot;" />
+        <entry key="sidecar.agent.hasEverUsedAgent" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
