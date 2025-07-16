@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="338" />
     <option name="translationDialogLocationY" value="244" />
     <histories>
+      <item value="SNAPSHOT" />
       <item value="group" />
       <item value="grou" />
       <item value="集团" />
@@ -134,12 +135,11 @@
       <item value="a" />
       <item value="pay-company" />
       <item value="pay-compa" />
-      <item value="pay-com" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="412" />
+        <entry key="CHINESE_SIMPLIFIED" value="413" />
         <entry key="ENGLISH" value="580" />
       </map>
     </option>
