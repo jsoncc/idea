@@ -85,6 +85,12 @@
     <option name="translationDialogLocationX" value="338" />
     <option name="translationDialogLocationY" value="244" />
     <histories>
+      <item value="支付公司" />
+      <item value="zhif" />
+      <item value="gateway" />
+      <item value="gatewa" />
+      <item value="gate" />
+      <item value="ga" />
       <item value="AntiCollusion" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="SNAPSHOT" />
@@ -129,18 +135,12 @@
       <item value="s" />
       <item value="稽核" />
       <item value="shuj" />
-      <item value="revert" />
-      <item value="custom" />
-      <item value="c" />
-      <item value="aspect" />
-      <item value="aspec" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="415" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="CHINESE_SIMPLIFIED" value="426" />
+        <entry key="ENGLISH" value="590" />
       </map>
     </option>
   </component>
