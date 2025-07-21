@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="338" />
     <option name="translationDialogLocationY" value="244" />
     <histories>
+      <item value="statement" />
+      <item value="state" />
       <item value="arguments" />
       <item value="active profiles" />
       <item value="active" />
@@ -133,14 +135,12 @@
       <item value="property" />
       <item value="允许" />
       <item value="yun" />
-      <item value="yuan" />
-      <item value="驳回" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="448" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE_SIMPLIFIED" value="455" />
+        <entry key="ENGLISH" value="614" />
       </map>
     </option>
   </component>
