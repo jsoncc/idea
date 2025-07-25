@@ -85,6 +85,17 @@
     <option name="translationDialogLocationX" value="338" />
     <option name="translationDialogLocationY" value="244" />
     <histories>
+      <item value="transactional" />
+      <item value="transaction" />
+      <item value="transac" />
+      <item value="transa" />
+      <item value="tran" />
+      <item value="t" />
+      <item value="common" />
+      <item value="comm" />
+      <item value="com" />
+      <item value="通用" />
+      <item value="tong" />
       <item value="agent" />
       <item value="statement" />
       <item value="state" />
@@ -124,23 +135,12 @@
       <item value="schedule" />
       <item value="sche" />
       <item value="sch" />
-      <item value="发票文件" />
-      <item value="企业认证" />
-      <item value="迭代" />
-      <item value="项目迭代" />
-      <item value="xiangm" />
-      <item value="醒目爹" />
-      <item value="日常迭代" />
-      <item value="日常die" />
-      <item value="ri" />
-      <item value="property" />
-      <item value="允许" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="456" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE_SIMPLIFIED" value="471" />
+        <entry key="ENGLISH" value="627" />
       </map>
     </option>
   </component>
