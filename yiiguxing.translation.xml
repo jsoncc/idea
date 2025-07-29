@@ -85,6 +85,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="Listener" />
+      <item value="dismiss" />
+      <item value="di" />
       <item value="分片传输" />
       <item value="分片" />
       <item value="分片书暗处" />
@@ -132,14 +135,11 @@
       <item value="Transactional" />
       <item value="匹配" />
       <item value="中标日期" />
-      <item value="captial" />
-      <item value="captia" />
-      <item value="captiat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="478" />
+        <entry key="CHINESE_SIMPLIFIED" value="480" />
         <entry key="ENGLISH" value="634" />
       </map>
     </option>
