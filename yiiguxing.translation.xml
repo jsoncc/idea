@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="Prefix must be in canonical form " />
       <item value="Overrule" />
       <item value="电汇" />
       <item value="deposit" />
@@ -134,12 +135,11 @@
       <item value="group" />
       <item value="grou" />
       <item value="集团" />
-      <item value="july" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="494" />
+        <entry key="CHINESE_SIMPLIFIED" value="495" />
         <entry key="ENGLISH" value="646" />
       </map>
     </option>
