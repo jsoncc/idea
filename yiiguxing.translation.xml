@@ -85,6 +85,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="paycompany" />
+      <item value="paycom" />
+      <item value="pay" />
+      <item value="payment" />
+      <item value="下游" />
+      <item value="上游" />
       <item value="    Invalid characters: 'S'&#10;    Bean: egsFileClientProperties&#10;    Reason: Canonical names should be kebab-case ('-' separated), lowercase alpha-numeric characters and must start with a letter" />
       <item value="Prefix must be in canonical form " />
       <item value="Overrule" />
@@ -129,18 +135,12 @@
       <item value="gateway" />
       <item value="gatewa" />
       <item value="gate" />
-      <item value="ga" />
-      <item value="AntiCollusion" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
-      <item value="SNAPSHOT" />
-      <item value="group" />
-      <item value="grou" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="496" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE_SIMPLIFIED" value="516" />
+        <entry key="ENGLISH" value="665" />
       </map>
     </option>
   </component>
