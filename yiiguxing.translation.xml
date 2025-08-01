@@ -82,9 +82,11 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="385" />
+    <option name="translationDialogLocationX" value="661" />
+    <option name="translationDialogLocationY" value="327" />
     <histories>
+      <item value="adapter" />
+      <item value="ad" />
       <item value="paycompany" />
       <item value="paycom" />
       <item value="pay" />
@@ -133,14 +135,12 @@
       <item value="支付公司" />
       <item value="zhif" />
       <item value="gateway" />
-      <item value="gatewa" />
-      <item value="gate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="516" />
-        <entry key="ENGLISH" value="665" />
+        <entry key="CHINESE_SIMPLIFIED" value="519" />
+        <entry key="ENGLISH" value="667" />
       </map>
     </option>
   </component>
