@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="chunk" />
+      <item value="chunkIndex" />
       <item value="initialization" />
       <item value="adapter" />
       <item value="ad" />
@@ -133,13 +135,11 @@
       <item value="ichu" />
       <item value="jichu" />
       <item value="alert capable" />
-      <item value="支付公司" />
-      <item value="zhif" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="520" />
+        <entry key="CHINESE_SIMPLIFIED" value="521" />
         <entry key="ENGLISH" value="667" />
       </map>
     </option>
