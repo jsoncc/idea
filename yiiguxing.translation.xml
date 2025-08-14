@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="634" />
-    <option name="translationDialogLocationY" value="333" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="There is no longer any conflict with other plugins. Full Line Code Completion has now been re-enabled and is able to suggest completions." />
       <item value="sharded" />
       <item value="shar" />
       <item value="sh" />
@@ -134,12 +135,11 @@
       <item value="ac" />
       <item value="a" />
       <item value="capital" />
-      <item value="基础架构" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="535" />
+        <entry key="CHINESE_SIMPLIFIED" value="536" />
         <entry key="ENGLISH" value="680" />
       </map>
     </option>
