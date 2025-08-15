@@ -85,6 +85,15 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="receiver" />
+      <item value="receive" />
+      <item value="recei" />
+      <item value="rece" />
+      <item value="reve" />
+      <item value="rev" />
+      <item value="接收方" />
+      <item value="发送方" />
+      <item value="发送" />
       <item value="sharded" />
       <item value="sharde" />
       <item value="shar" />
@@ -126,21 +135,12 @@
       <item value="comm" />
       <item value="com" />
       <item value="通用" />
-      <item value="tong" />
-      <item value="agent" />
-      <item value="statement" />
-      <item value="state" />
-      <item value="arguments" />
-      <item value="active profiles" />
-      <item value="active" />
-      <item value="ac" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="537" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE_SIMPLIFIED" value="564" />
+        <entry key="ENGLISH" value="706" />
       </map>
     </option>
   </component>
