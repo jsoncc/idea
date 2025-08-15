@@ -85,9 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
-      <item value="There is no longer any conflict with other plugins. Full Line Code Completion has now been re-enabled and is able to suggest completions." />
       <item value="sharded" />
+      <item value="sharde" />
       <item value="shar" />
+      <item value="There is no longer any conflict with other plugins. Full Line Code Completion has now been re-enabled and is able to suggest completions." />
       <item value="sh" />
       <item value="处理中" />
       <item value="chuliz" />
@@ -134,12 +135,11 @@
       <item value="active" />
       <item value="ac" />
       <item value="a" />
-      <item value="capital" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="536" />
+        <entry key="CHINESE_SIMPLIFIED" value="537" />
         <entry key="ENGLISH" value="680" />
       </map>
     </option>
