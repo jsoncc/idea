@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="385" />
+    <option name="translationDialogLocationX" value="649" />
+    <option name="translationDialogLocationY" value="367" />
     <histories>
+      <item value="initialization" />
       <item value="回传" />
       <item value="sharded" />
       <item value="shar" />
@@ -106,7 +107,6 @@
       <item value="处理中" />
       <item value="chuliz" />
       <item value="chunkIndex" />
-      <item value="initialization" />
       <item value="adapter" />
       <item value="ad" />
       <item value="paycompany" />
@@ -139,7 +139,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="579" />
+        <entry key="CHINESE_SIMPLIFIED" value="580" />
         <entry key="ENGLISH" value="719" />
       </map>
     </option>
