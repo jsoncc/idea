@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1755590185788" />
+    <option name="lastTrimTime" value="1756383924044" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -82,9 +82,16 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="684" />
-    <option name="translationDialogLocationY" value="379" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="缺失" />
+      <item value="缺shiqu" />
+      <item value="缺shi" />
+      <item value="缺少" />
+      <item value="校验" />
+      <item value="jiao" />
+      <item value="分片大小不能超过10MB" />
       <item value="COMPRESSED_FILE_SUFFIX_ERROR" />
       <item value="压缩包" />
       <item value="initialization" />
@@ -128,19 +135,12 @@
       <item value="Listener" />
       <item value="di" />
       <item value="分片传输" />
-      <item value="分片" />
-      <item value="分片书暗处" />
-      <item value="transactional" />
-      <item value="transaction" />
-      <item value="transac" />
-      <item value="transa" />
-      <item value="tran" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="587" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE_SIMPLIFIED" value="601" />
+        <entry key="ENGLISH" value="739" />
       </map>
     </option>
   </component>
