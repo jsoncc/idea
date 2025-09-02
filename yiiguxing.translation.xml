@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="apr" />
       <item value="缺失" />
       <item value="缺shiqu" />
       <item value="缺shi" />
@@ -134,13 +135,12 @@
       <item value="dis" />
       <item value="Listener" />
       <item value="di" />
-      <item value="分片传输" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="601" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE_SIMPLIFIED" value="605" />
+        <entry key="ENGLISH" value="742" />
       </map>
     </option>
   </component>
