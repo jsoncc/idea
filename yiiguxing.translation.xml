@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="百" />
+      <item value="bai" />
+      <item value="hunder" />
+      <item value="hund" />
       <item value="branch" />
       <item value="bran" />
       <item value="br" />
@@ -131,16 +135,12 @@
       <item value="下游" />
       <item value="上游" />
       <item value="    Invalid characters: 'S'&#10;    Bean: egsFileClientProperties&#10;    Reason: Canonical names should be kebab-case ('-' separated), lowercase alpha-numeric characters and must start with a letter" />
-      <item value="Prefix must be in canonical form " />
-      <item value="Overrule" />
-      <item value="电汇" />
-      <item value="deposit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="619" />
-        <entry key="ENGLISH" value="755" />
+        <entry key="CHINESE_SIMPLIFIED" value="629" />
+        <entry key="ENGLISH" value="764" />
       </map>
     </option>
   </component>
