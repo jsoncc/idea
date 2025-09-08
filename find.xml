@@ -2,14 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.java,*.yaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.java,*.yaml</mask>
   </component>
 </application>
