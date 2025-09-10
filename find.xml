@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.java,*.yaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
