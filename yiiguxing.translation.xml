@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1756892992392" />
+    <option name="lastTrimTime" value="1757554056557" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="permission denied" />
       <item value="百" />
       <item value="bai" />
       <item value="hunder" />
@@ -134,12 +135,11 @@
       <item value="payment" />
       <item value="下游" />
       <item value="上游" />
-      <item value="    Invalid characters: 'S'&#10;    Bean: egsFileClientProperties&#10;    Reason: Canonical names should be kebab-case ('-' separated), lowercase alpha-numeric characters and must start with a letter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="629" />
+        <entry key="CHINESE_SIMPLIFIED" value="630" />
         <entry key="ENGLISH" value="764" />
       </map>
     </option>
