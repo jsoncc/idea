@@ -85,6 +85,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="feature" />
+      <item value="fea" />
+      <item value="queryPaymentResult" />
+      <item value="dev-gx-queryPaymentResult" />
+      <item value="dev-gxt-queryPaymentResult" />
+      <item value="dev-gxt-" />
       <item value="permission denied" />
       <item value="百" />
       <item value="bai" />
@@ -129,17 +135,11 @@
       <item value="chunkIndex" />
       <item value="adapter" />
       <item value="ad" />
-      <item value="paycompany" />
-      <item value="paycom" />
-      <item value="pay" />
-      <item value="payment" />
-      <item value="下游" />
-      <item value="上游" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="630" />
+        <entry key="CHINESE_SIMPLIFIED" value="632" />
         <entry key="ENGLISH" value="764" />
       </map>
     </option>
