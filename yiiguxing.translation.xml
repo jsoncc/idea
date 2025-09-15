@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="assholes" />
+      <item value="assho" />
+      <item value="ass" />
+      <item value="ss" />
       <item value="feature" />
       <item value="fea" />
       <item value="queryPaymentResult" />
@@ -131,16 +135,12 @@
       <item value="There is no longer any conflict with other plugins. Full Line Code Completion has now been re-enabled and is able to suggest completions." />
       <item value="sh" />
       <item value="处理中" />
-      <item value="chuliz" />
-      <item value="chunkIndex" />
-      <item value="adapter" />
-      <item value="ad" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="632" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE_SIMPLIFIED" value="636" />
+        <entry key="ENGLISH" value="767" />
       </map>
     </option>
   </component>
