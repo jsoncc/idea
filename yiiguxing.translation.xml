@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="资金方" />
       <item value="undo&#10;" />
       <item value="d" />
       <item value="assholes" />
@@ -105,7 +106,6 @@
       <item value="branch" />
       <item value="bran" />
       <item value="br" />
-      <item value="资金方" />
       <item value="zijin" />
       <item value="apr" />
       <item value="缺失" />
@@ -139,8 +139,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="642" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE_SIMPLIFIED" value="646" />
+        <entry key="ENGLISH" value="776" />
       </map>
     </option>
   </component>
