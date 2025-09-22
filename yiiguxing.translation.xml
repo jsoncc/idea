@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1757554056557" />
+    <option name="lastTrimTime" value="1758519862783" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -82,9 +82,12 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="385" />
+    <option name="translationDialogLocationX" value="660" />
+    <option name="translationDialogLocationY" value="386" />
     <histories>
+      <item value="attach" />
+      <item value="att" />
+      <item value="a" />
       <item value="资金方" />
       <item value="undo&#10;" />
       <item value="d" />
@@ -132,15 +135,12 @@
       <item value="rev" />
       <item value="接收方" />
       <item value="发送方" />
-      <item value="发送" />
-      <item value="sharde" />
-      <item value="There is no longer any conflict with other plugins. Full Line Code Completion has now been re-enabled and is able to suggest completions." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="646" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE_SIMPLIFIED" value="650" />
+        <entry key="ENGLISH" value="779" />
       </map>
     </option>
   </component>
