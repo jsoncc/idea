@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="个人中心" />
+      <item value="mymargin" />
+      <item value="margin" />
+      <item value="mar" />
       <item value="institution" />
       <item value="institu" />
       <item value="ins" />
@@ -131,16 +135,12 @@
       <item value="chunk" />
       <item value="chu" />
       <item value="receiver" />
-      <item value="receive" />
-      <item value="recei" />
-      <item value="rece" />
-      <item value="reve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="654" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE_SIMPLIFIED" value="664" />
+        <entry key="ENGLISH" value="792" />
       </map>
     </option>
   </component>
