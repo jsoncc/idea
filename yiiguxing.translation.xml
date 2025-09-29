@@ -85,6 +85,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="Strategy " />
+      <item value="GuaranteeStatusQueryStrategy " />
       <item value="cmins" />
       <item value="cm" />
       <item value="个人中心" />
@@ -133,13 +135,11 @@
       <item value="回传" />
       <item value="sharded" />
       <item value="shar" />
-      <item value="shaf" />
-      <item value="chunk" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="670" />
+        <entry key="CHINESE_SIMPLIFIED" value="671" />
         <entry key="ENGLISH" value="797" />
       </map>
     </option>
