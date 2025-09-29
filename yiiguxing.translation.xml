@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="Processor" />
       <item value="Strategy " />
       <item value="GuaranteeStatusQueryStrategy " />
       <item value="cmins" />
@@ -134,12 +135,11 @@
       <item value="initialization" />
       <item value="回传" />
       <item value="sharded" />
-      <item value="shar" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="671" />
+        <entry key="CHINESE_SIMPLIFIED" value="672" />
         <entry key="ENGLISH" value="797" />
       </map>
     </option>
