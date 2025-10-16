@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1759039560515" />
+    <option name="lastTrimTime" value="1760583442499" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="queues" />
       <item value="Processor" />
       <item value="Strategy " />
       <item value="GuaranteeStatusQueryStrategy " />
@@ -134,12 +135,11 @@
       <item value="压缩包" />
       <item value="initialization" />
       <item value="回传" />
-      <item value="sharded" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="672" />
+        <entry key="CHINESE_SIMPLIFIED" value="673" />
         <entry key="ENGLISH" value="797" />
       </map>
     </option>
