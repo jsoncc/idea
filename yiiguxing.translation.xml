@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="tenantId" />
       <item value="queues" />
       <item value="Processor" />
       <item value="Strategy " />
@@ -134,13 +135,12 @@
       <item value="COMPRESSED_FILE_SUFFIX_ERROR" />
       <item value="压缩包" />
       <item value="initialization" />
-      <item value="回传" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="673" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE_SIMPLIFIED" value="685" />
+        <entry key="ENGLISH" value="806" />
       </map>
     </option>
   </component>
