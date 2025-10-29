@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="resume" />
+      <item value="resu" />
+      <item value="evalute" />
+      <item value="eva" />
       <item value="秘钥" />
       <item value="COMPACT" />
       <item value="tenantId" />
@@ -131,15 +135,11 @@
       <item value="缺shiqu" />
       <item value="缺shi" />
       <item value="缺少" />
-      <item value="校验" />
-      <item value="jiao" />
-      <item value="分片大小不能超过10MB" />
-      <item value="COMPRESSED_FILE_SUFFIX_ERROR" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="691" />
+        <entry key="CHINESE_SIMPLIFIED" value="693" />
         <entry key="ENGLISH" value="811" />
       </map>
     </option>
