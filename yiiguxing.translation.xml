@@ -85,6 +85,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="dump" />
+      <item value="execution" />
+      <item value="exec" />
+      <item value="execy" />
+      <item value="ex" />
+      <item value="e" />
       <item value="resume" />
       <item value="resu" />
       <item value="evalute" />
@@ -129,17 +135,11 @@
       <item value="branch" />
       <item value="bran" />
       <item value="br" />
-      <item value="zijin" />
-      <item value="apr" />
-      <item value="缺失" />
-      <item value="缺shiqu" />
-      <item value="缺shi" />
-      <item value="缺少" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="693" />
+        <entry key="CHINESE_SIMPLIFIED" value="695" />
         <entry key="ENGLISH" value="811" />
       </map>
     </option>
