@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1761617138345" />
+    <option name="lastTrimTime" value="1762397930238" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="密码" />
       <item value="渗透" />
       <item value="渗透测试漏洞" />
       <item value="dump" />
@@ -134,13 +135,12 @@
       <item value="bai" />
       <item value="hunder" />
       <item value="hund" />
-      <item value="branch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="695" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE_SIMPLIFIED" value="698" />
+        <entry key="ENGLISH" value="814" />
       </map>
     </option>
   </component>
