@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="TrialStateWidget" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+    </group>
     <group value="RunToCursor" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Debug Header Toolbar" />
