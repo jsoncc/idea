@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1764231894905" />
+    <option name="lastTrimTime" value="1765353053384" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -82,9 +82,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value=" Closing curly brace does not appear on the same line as the subsequent block" />
+      <item value="Missing trailing comma" />
+      <item value=" Extra semicolon " />
       <item value="电汇" />
       <item value="deposit&#10;" />
       <item value="MALFORMED" />
@@ -132,14 +133,11 @@
       <item value="queryPaymentResult" />
       <item value="dev-gx-queryPaymentResult" />
       <item value="dev-gxt-queryPaymentResult" />
-      <item value="dev-gxt-" />
-      <item value="permission denied" />
-      <item value="百" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="707" />
+        <entry key="CHINESE_SIMPLIFIED" value="711" />
         <entry key="ENGLISH" value="822" />
       </map>
     </option>
