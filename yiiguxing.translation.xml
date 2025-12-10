@@ -82,6 +82,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="650" />
+    <option name="translationDialogLocationY" value="383" />
     <histories>
       <item value=" Closing curly brace does not appear on the same line as the subsequent block" />
       <item value="Missing trailing comma" />
