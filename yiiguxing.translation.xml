@@ -82,15 +82,15 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="650" />
-    <option name="translationDialogLocationY" value="383" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="MALFORMED" />
       <item value=" Closing curly brace does not appear on the same line as the subsequent block" />
       <item value="Missing trailing comma" />
       <item value=" Extra semicolon " />
       <item value="电汇" />
       <item value="deposit&#10;" />
-      <item value="MALFORMED" />
       <item value="密码" />
       <item value="渗透" />
       <item value="渗透测试漏洞" />
@@ -139,7 +139,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="711" />
+        <entry key="CHINESE_SIMPLIFIED" value="712" />
         <entry key="ENGLISH" value="822" />
       </map>
     </option>
