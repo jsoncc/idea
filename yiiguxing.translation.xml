@@ -85,6 +85,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="common" />
+      <item value="comm" />
+      <item value="通用" />
+      <item value="tong" />
       <item value="MALFORMED" />
       <item value=" Closing curly brace does not appear on the same line as the subsequent block" />
       <item value="Missing trailing comma" />
@@ -131,16 +135,12 @@
       <item value="ass" />
       <item value="ss" />
       <item value="feature" />
-      <item value="fea" />
-      <item value="queryPaymentResult" />
-      <item value="dev-gx-queryPaymentResult" />
-      <item value="dev-gxt-queryPaymentResult" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="712" />
-        <entry key="ENGLISH" value="822" />
+        <entry key="CHINESE_SIMPLIFIED" value="726" />
+        <entry key="ENGLISH" value="835" />
       </map>
     </option>
   </component>
