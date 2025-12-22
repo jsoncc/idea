@@ -85,6 +85,11 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="要约函" />
+      <item value="一起约翰" />
+      <item value="offer Letter" />
+      <item value="offerLetter" />
+      <item value="offe rLetter" />
       <item value="channel" />
       <item value="Token无效" />
       <item value="capital" />
@@ -130,17 +135,12 @@
       <item value="institution" />
       <item value="institu" />
       <item value="ins" />
-      <item value="attach" />
-      <item value="att" />
-      <item value="a" />
-      <item value="资金方" />
-      <item value="undo&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="732" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE_SIMPLIFIED" value="751" />
+        <entry key="ENGLISH" value="858" />
       </map>
     </option>
   </component>
