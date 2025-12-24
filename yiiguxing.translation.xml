@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="sync" />
       <item value="Suggested plugin Reactive Streams available." />
       <item value="STARTING" />
       <item value="要约函" />
@@ -134,12 +135,11 @@
       <item value="mymargin" />
       <item value="margin" />
       <item value="mar" />
-      <item value="institution" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="753" />
+        <entry key="CHINESE_SIMPLIFIED" value="754" />
         <entry key="ENGLISH" value="858" />
       </map>
     </option>
