@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1637132185432" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1766040409893" />
+    <option name="lastTrimTime" value="1766541319411" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="Suggested plugin Reactive Streams available." />
       <item value="STARTING" />
       <item value="要约函" />
       <item value="一起约翰" />
@@ -134,12 +135,11 @@
       <item value="margin" />
       <item value="mar" />
       <item value="institution" />
-      <item value="institu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="752" />
+        <entry key="CHINESE_SIMPLIFIED" value="753" />
         <entry key="ENGLISH" value="858" />
       </map>
     </option>

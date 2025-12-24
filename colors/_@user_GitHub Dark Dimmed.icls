@@ -10,12 +10,4 @@
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <attributes>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="25cc5" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
