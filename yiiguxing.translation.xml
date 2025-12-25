@@ -85,6 +85,18 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="385" />
     <histories>
+      <item value="finmidend" />
+      <item value="automatically mark opened files as viewed" />
+      <item value="automatically mark opened files as view" />
+      <item value="automatically mark opened files as vi" />
+      <item value="automatically mark opened files as" />
+      <item value="automatically mark opened file" />
+      <item value="automatically mark opened if" />
+      <item value="automatically mark open" />
+      <item value="automatically mar" />
+      <item value="automati" />
+      <item value="auto" />
+      <item value="au" />
       <item value="sync" />
       <item value="Suggested plugin Reactive Streams available." />
       <item value="STARTING" />
@@ -123,23 +135,11 @@
       <item value="evalute" />
       <item value="eva" />
       <item value="秘钥" />
-      <item value="COMPACT" />
-      <item value="tenantId" />
-      <item value="queues" />
-      <item value="Processor" />
-      <item value="Strategy " />
-      <item value="GuaranteeStatusQueryStrategy " />
-      <item value="cmins" />
-      <item value="cm" />
-      <item value="个人中心" />
-      <item value="mymargin" />
-      <item value="margin" />
-      <item value="mar" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="CHINESE_SIMPLIFIED" value="754" />
+        <entry key="CHINESE_SIMPLIFIED" value="756" />
         <entry key="ENGLISH" value="858" />
       </map>
     </option>
