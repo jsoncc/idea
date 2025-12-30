@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.reactivestreams" />
+        <option value="com.intellij.spring" />
       </list>
     </option>
   </component>
