@@ -6,17 +6,6 @@
       <mapping pattern="uat_sftp_key" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="prd_sftp_key" type="AUTO_DETECTED" />
-      <mapping pattern=".springBeans" type="Eclipse" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern=".ws-context" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping pattern=".devcontainer.json" type="JSON5" />
-      <mapping pattern="devcontainer.json" type="JSON5" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="rar" type="PLAIN_TEXT" />
@@ -24,9 +13,6 @@
       <mapping ext="do" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="r0" type="PLAIN_TEXT" />
-      <mapping pattern="spring.handlers" type="Properties" />
-      <mapping pattern="spring.schemas" type="Properties" />
-      <mapping ext="wadl" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
