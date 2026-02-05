@@ -1,4 +1,7 @@
 <application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules />
+  </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MAX_LOOKUP_WIDTH2" value="641" />
