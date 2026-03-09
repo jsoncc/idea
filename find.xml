@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="所有位置" />
-    <option name="defaultScopeName" value="所有位置" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="所有位置" />
+    <option name="customScope" value="项目文件" />
+    <option name="defaultScopeName" value="项目文件" />
+    <option name="SEARCH_SCOPE" value="项目文件" />
     <option name="FILE_MASK" value="*.java,*.yaml,*.yml,*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
