@@ -1,5 +1,6 @@
 <application>
   <component name="aminer-codegeex">
+    <option name="chatModel" value="glm-4-7" />
     <option name="serverConfig">
       <JsonObject />
     </option>
