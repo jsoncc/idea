@@ -15,7 +15,7 @@
     <option name="minCompletionDelay" value="500" />
     <option name="autoUpdateVersion" value="2.19.0" />
     <option name="autoUpdateProperty" value="{&quot;auto&quot;:true, &quot;is_force&quot;:false}" />
-    <option name="applyNextLineCount" value="2" />
+    <option name="applyNextLineCount" value="3" />
     <option name="promptLimitTestingPrefix" value="1024" />
     <option name="promptLimitTestingSuffix" value="256" />
     <option name="completionDocumentSettings">
