@@ -84,7 +84,7 @@
       </list>
     </option>
     <option name="inlayHintsTypeString" value="{}" />
-    <option name="inlineChatDataString" value="{&quot;D:/farben/projects/cmft-elog-egs/cmft-elog-egs-app/src/main/java/com/cmft/elog/egs/app/mq/consumer/guarantee/common/AcceptEgApplyResultListener.java&quot;:{&quot;telemetry&quot;:{&quot;commandId&quot;:&quot;bd6e20c54b1c4beebeda400f164acd11&quot;,&quot;commandName&quot;:&quot;InlineChat&quot;,&quot;contextType&quot;:&quot;ast&quot;}}}" />
+    <option name="inlineChatDataString" value="{&quot;D:/farben/projects/cmft-elog-egs/cmft-elog-egs-app/src/main/java/com/cmft/elog/egs/app/mq/consumer/guarantee/common/AcceptEgApplyResultListener.java&quot;:{&quot;telemetry&quot;:{&quot;commandId&quot;:&quot;bd6e20c54b1c4beebeda400f164acd11&quot;,&quot;commandName&quot;:&quot;InlineChat&quot;,&quot;contextType&quot;:&quot;ast&quot;}},&quot;D:/farben/projects/apache-maven-3.9.9/rep/com/cmft/elog/ais/cmft-elog-ais-client/1.0.7-SNAPSHOT/cmft-elog-ais-client-1.0.7-SNAPSHOT-sources.jar!/com/cmft/elog/ais/client/api/downstream/ztb/ZtbApi.java&quot;:{&quot;psiElementType&quot;:&quot;Method&quot;,&quot;textRange&quot;:{&quot;myStartOffset&quot;:595,&quot;myEndOffset&quot;:794}}}" />
     <option name="agentPort" value="11435" />
     <option name="agentState" value="ready" />
     <option name="agentVersion" value="1.3.16" />
