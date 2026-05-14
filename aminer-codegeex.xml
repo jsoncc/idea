@@ -16,8 +16,7 @@
     <option name="minCompletionDelay" value="500" />
     <option name="autoUpdateVersion" value="2.19.0" />
     <option name="autoUpdateProperty" value="{&quot;auto&quot;:true, &quot;is_force&quot;:false}" />
-    <option name="applyNextLineCount" value="9" />
-    <option name="silentTimeStamp" value="1777906614" />
+    <option name="silentTimeStamp" value="1779247905" />
     <option name="promptLimitTestingPrefix" value="1024" />
     <option name="promptLimitTestingSuffix" value="256" />
     <option name="completionDocumentSettings">
@@ -87,10 +86,10 @@
     </option>
     <option name="inlayHintsTypeString" value="{}" />
     <option name="inlineChatDataString" value="{&quot;D:/farben/projects/cmft-elog-egs/cmft-elog-egs-app/src/main/java/com/cmft/elog/egs/app/mq/consumer/guarantee/common/AcceptEgApplyResultListener.java&quot;:{&quot;telemetry&quot;:{&quot;commandId&quot;:&quot;bd6e20c54b1c4beebeda400f164acd11&quot;,&quot;commandName&quot;:&quot;InlineChat&quot;,&quot;contextType&quot;:&quot;ast&quot;}},&quot;D:/farben/projects/apache-maven-3.9.9/rep/com/cmft/elog/ais/cmft-elog-ais-client/1.0.7-SNAPSHOT/cmft-elog-ais-client-1.0.7-SNAPSHOT-sources.jar!/com/cmft/elog/ais/client/api/downstream/ztb/ZtbApi.java&quot;:{&quot;psiElementType&quot;:&quot;Method&quot;,&quot;textRange&quot;:{&quot;myStartOffset&quot;:595,&quot;myEndOffset&quot;:794}}}" />
-    <option name="agentPort" value="11435" />
+    <option name="agentPort" value="11890" />
     <option name="agentState" value="ready" />
     <option name="agentVersion" value="1.3.16" />
-    <option name="agentPid" value="17588" />
+    <option name="agentPid" value="17280" />
     <option name="lastPluginVersion" value="2.27.4-223" />
   </component>
 </application>
