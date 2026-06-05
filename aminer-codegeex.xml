@@ -6,7 +6,7 @@
     <option name="telemetryEnabled" value="true" />
     <option name="telemetryConfigured" value="true" />
     <option name="sessionId" value="3e8517ec-05b6-4e0b-9b55-5ba70dcd46c9" />
-    <option name="macAddress" value="40-04-F8-83-47-DB" />
+    <option name="macAddress" value="00-15-5D-DF-A9-73" />
     <option name="userId" value="171ae8823f3747718850178e8ca1d275" />
     <option name="userName" value="新用户68245" />
     <option name="source" value="codeGeeX" />
@@ -90,7 +90,7 @@
     <option name="agentPort" value="11435" />
     <option name="agentState" value="ready" />
     <option name="agentVersion" value="1.3.16" />
-    <option name="agentPid" value="12812" />
+    <option name="agentPid" value="19876" />
     <option name="lastPluginVersion" value="2.27.4-223" />
   </component>
 </application>
