@@ -90,7 +90,7 @@
     <option name="agentPort" value="11435" />
     <option name="agentState" value="error" />
     <option name="agentVersion" value="1.3.16" />
-    <option name="agentPid" value="19160" />
+    <option name="agentPid" value="7856" />
     <option name="agentMessage" value="java.lang.RuntimeException: java.util.concurrent.CompletionException: java.lang.RuntimeException: MCP tools setup failed after trying all mirrors" />
     <option name="lastPluginVersion" value="2.27.4-223" />
   </component>
