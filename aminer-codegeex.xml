@@ -6,7 +6,7 @@
     <option name="telemetryEnabled" value="true" />
     <option name="telemetryConfigured" value="true" />
     <option name="sessionId" value="3e8517ec-05b6-4e0b-9b55-5ba70dcd46c9" />
-    <option name="macAddress" value="00-15-5D-62-4D-EA" />
+    <option name="macAddress" value="40-04-F8-83-47-DB" />
     <option name="userId" value="171ae8823f3747718850178e8ca1d275" />
     <option name="userName" value="新用户68245" />
     <option name="source" value="codeGeeX" />
@@ -88,10 +88,9 @@
     <option name="inlayHintsTypeString" value="{}" />
     <option name="inlineChatDataString" value="{&quot;D:/farben/projects/cmft-elog-egs/cmft-elog-egs-app/src/main/java/com/cmft/elog/egs/app/mq/consumer/guarantee/common/AcceptEgApplyResultListener.java&quot;:{&quot;telemetry&quot;:{&quot;commandId&quot;:&quot;bd6e20c54b1c4beebeda400f164acd11&quot;,&quot;commandName&quot;:&quot;InlineChat&quot;,&quot;contextType&quot;:&quot;ast&quot;}},&quot;D:/farben/projects/apache-maven-3.9.9/rep/com/cmft/elog/ais/cmft-elog-ais-client/1.0.7-SNAPSHOT/cmft-elog-ais-client-1.0.7-SNAPSHOT-sources.jar!/com/cmft/elog/ais/client/api/downstream/ztb/ZtbApi.java&quot;:{&quot;psiElementType&quot;:&quot;Method&quot;,&quot;textRange&quot;:{&quot;myStartOffset&quot;:595,&quot;myEndOffset&quot;:794}}}" />
     <option name="agentPort" value="11435" />
-    <option name="agentState" value="error" />
+    <option name="agentState" value="stopped" />
     <option name="agentVersion" value="1.3.16" />
-    <option name="agentPid" value="22244" />
-    <option name="agentMessage" value="java.lang.RuntimeException: java.util.concurrent.CompletionException: java.lang.RuntimeException: MCP tools setup failed after trying all mirrors" />
+    <option name="agentPid" value="27976" />
     <option name="lastPluginVersion" value="2.27.4-223" />
   </component>
 </application>
